@@ -24,29 +24,20 @@ Each folder/notebook focuses on **one topic**, includes:
 
 ## 🗂️ Table of Contents
 
-1. [Getting Started](#-1-getting-started)
-2. [NumPy Array Basics](#-2-numpy-array-basics)
-3. [Array Creation Methods](#-3-array-creation-methods)
-4. [Array Attributes & Data Types](#-4-array-attributes--data-types)
-5. [Indexing & Slicing](#-5-indexing--slicing)
-6. [Reshaping & Resizing Arrays](#-6-reshaping--resizing-arrays)
-7. [Array Operations & Broadcasting](#-7-array-operations--broadcasting)
-8. [Mathematical Functions](#-8-mathematical-functions)
-9. [Aggregate & Statistical Functions](#-9-aggregate--statistical-functions)
-10. [Sorting, Searching & Counting](#-10-sorting-searching--counting)
-11. [Stacking, Splitting & Concatenation](#-11-stacking-splitting--concatenation)
-12. [Copy vs View (Memory Concepts)](#-12-copy-vs-view-memory-concepts)
-13. [Linear Algebra with NumPy](#-13-linear-algebra-with-numpy)
-14. [Random Module (numpy.random)](#-14-random-module-numpyrandom)
-15. [Working with Missing Data (NaN & Inf)](#-15-working-with-missing-data-nan--inf)
-16. [Boolean Masking & Fancy Indexing](#-16-boolean-masking--fancy-indexing)
-17. [Vectorization & Performance](#-17-vectorization--performance)
-18. [File I/O with NumPy](#-18-file-io-with-numpy)
-19. [Structured Arrays](#-19-structured-arrays)
-20. [NumPy with Pandas / Matplotlib](#-20-numpy-with-pandas--matplotlib)
-21. [Mini Projects](#-21-mini-projects)
-22. [Interview Questions & Cheatsheet](#-22-interview-questions--cheatsheet)
-23. [Resources](#-23-resources)
+| #   | Topic                                                                         | #   | Topic                                                                            |
+| --- | ----------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------- |
+| 1   | [Getting Started](#-1-getting-started)                                        | 13  | [Linear Algebra with NumPy](#-13-linear-algebra-with-numpy)                      |
+| 2   | [NumPy Array Basics](#-2-numpy-array-basics)                                  | 14  | [Random Module (numpy.random)](#-14-random-module-numpyrandom)                   |
+| 3   | [Array Creation Methods](#-3-array-creation-methods)                          | 15  | [Working with Missing Data (NaN & Inf)](#-15-working-with-missing-data-nan--inf) |
+| 4   | [Array Attributes & Data Types](#-4-array-attributes--data-types)             | 16  | [Boolean Masking & Fancy Indexing](#-16-boolean-masking--fancy-indexing)         |
+| 5   | [Indexing & Slicing](#-5-indexing--slicing)                                   | 17  | [Vectorization & Performance](#-17-vectorization--performance)                   |
+| 6   | [Reshaping & Resizing Arrays](#-6-reshaping--resizing-arrays)                 | 18  | [File I/O with NumPy](#-18-file-io-with-numpy)                                   |
+| 7   | [Array Operations & Broadcasting](#-7-array-operations--broadcasting)         | 19  | [Structured Arrays](#-19-structured-arrays)                                      |
+| 8   | [Mathematical Functions](#-8-mathematical-functions)                          | 20  | [NumPy with Pandas / Matplotlib](#-20-numpy-with-pandas--matplotlib)             |
+| 9   | [Aggregate & Statistical Functions](#-9-aggregate--statistical-functions)     | 21  | [Mini Projects](#-21-mini-projects)                                              |
+| 10  | [Sorting, Searching & Counting](#-10-sorting-searching--counting)             | 22  | [Interview Questions & Cheatsheet](#-22-interview-questions--cheatsheet)         |
+| 11  | [Stacking, Splitting & Concatenation](#-11-stacking-splitting--concatenation) | 23  | [Resources](#-23-resources)                                                      |
+| 12  | [Copy vs View (Memory Concepts)](#-12-copy-vs-view-memory-concepts)           |     |                                                                                  |
 
 ---
 
